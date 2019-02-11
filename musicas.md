@@ -1,0 +1,3 @@
+medicine
+throne
+wonderful life
