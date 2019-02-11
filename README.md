@@ -1,4 +1,5 @@
 # devops-aula02
 Tom Holland
-Robert Downey Jr
+Adam Sandler
 Jim Carrey
+Emma Watson
